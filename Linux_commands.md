@@ -1,5 +1,5 @@
-* command *|                         *Description*                                     |            *Example*                  |
--------------------------------------------------------------------------------------------------------------------------------- 
+| * command *|                         *Description*                                   |            *Example*                | 
+| --------------|-----------------------------------------------------------------------|----------------------------------------|
 | ssh      | Used for secure remote access to a system                                 | ssh username@192.168.1.50             |
 | ls       | List directory contents                                                   | ls -l                                 |
 | pwd      | Print the current working directory                                       | pwd                                   |
