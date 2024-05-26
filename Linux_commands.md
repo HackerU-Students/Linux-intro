@@ -49,8 +49,7 @@
 | ss       | Display socket statistics                                                 | ss -tuln                              |
 | iptables | Configure and administer the netfilter firewall                           | sudo iptables -L                      |
 | ufw      | A user-friendly interface to manage iptables firewall rules               | sudo ufw enable                       |
-| uname    | Print system information, including kernel name, network node hostname,
-             kernel release, and kernel version                                        | uname -a                              |
+| uname    | Print  kernel name, network node hostname,kernel release, kernel version  |                                       | 
 | neofetch | Display system information in a colorful and visually appealing way       | neofetch                              |
 | cal      | Display a calendar of the current month or year                           | cal                                   |
 | free     | Display the amount of free and used system memory                         | free -h                               |
