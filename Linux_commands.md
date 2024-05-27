@@ -1,4 +1,4 @@
-| Command  |                          Description                                      |              Example                  |                        Flags                | 
+| Command  |                          Description                                      |              Example                  |                        Flag                 | 
 | ---------|---------------------------------------------------------------------------|---------------------------------------|---------------------------------------------|
 | ssh      | Used for secure remote access to a system                                 | ssh username@192.168.1.50             |-l,-i,-p,-X,-L,-R,-C,-f,-N,-T,-o,-v          |
 | ls       | List directory contents                                                   | ls -l                                 |-l,-a,-lh,-R,-t,-lr,-S,-i,-F,--color=auto,-G |
