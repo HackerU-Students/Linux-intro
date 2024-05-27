@@ -1,6 +1,6 @@
-| * command *|                         *Description*                                   |            *Example*                | 
-| --------------|-----------------------------------------------------------------------|----------------------------------------|
-| ssh      | Used for secure remote access to a system                                 | ssh username@192.168.1.50             |
+| command  |                          Description                                      |              Example                  |                        Flags                | 
+| ---------|---------------------------------------------------------------------------|---------------------------------------|---------------------------------------------|
+| ssh      | Used for secure remote access to a system                                 | ssh username@192.168.1.50             |-l, -i, -p, -X, -L, -R, -C, -f, -N, -T,-o,-v |
 | ls       | List directory contents                                                   | ls -l                                 |
 | pwd      | Print the current working directory                                       | pwd                                   |
 | cd       | Change directory to a different folder                                    | cd /home/username                     |
