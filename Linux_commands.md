@@ -1,8 +1,8 @@
-| command  |                          Description                                      |              Example                  |                        Flags                | 
+| Command  |                          Description                                      |              Example                  |                        Flags                | 
 | ---------|---------------------------------------------------------------------------|---------------------------------------|---------------------------------------------|
-| ssh      | Used for secure remote access to a system                                 | ssh username@192.168.1.50             |-l, -i, -p, -X, -L, -R, -C, -f, -N, -T,-o,-v |
-| ls       | List directory contents                                                   | ls -l                                 |
-| pwd      | Print the current working directory                                       | pwd                                   |
+| ssh      | Used for secure remote access to a system                                 | ssh username@192.168.1.50             |-l,-i,-p,-X,-L,-R,-C,-f,-N,-T,-o,-v          |
+| ls       | List directory contents                                                   | ls -l                                 |-l,-a,-lh,-R,-t,-lr,-S,-i,-F,--color=auto,-G |
+| pwd      | Print the current working directory                                       | pwd                                   |-L,-P                                        |
 | cd       | Change directory to a different folder                                    | cd /home/username                     |
 | touch    | Create an empty file or update the modified timestamp of an existing file | touch newfile.txt                     |
 | echo     | Print a message or the value of a variable                                | echo "Hello, World!"                  |
